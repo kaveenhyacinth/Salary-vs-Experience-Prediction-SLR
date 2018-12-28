@@ -14,3 +14,5 @@ So enjoy my first machine learning model
 Made from :heart: with :octocat:
 
 Kaveen Hyacinth @ XrotX
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
